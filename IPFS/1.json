@@ -1,0 +1,20 @@
+{
+    "name": "Tigersword NFT Collection NFT #1",
+    "description": "Tigersword a green collection. This unique collection 1 of 2 NFTs available",
+    "image": "ipfs://QmRdqFvmf9p1L9DrUZ9m24vDYUqTti53zRPXZDxUt6Lcsc/1.png",
+    "edition": 1,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Monochrome"
+      },
+      {
+        "trait_type": "Swords",
+        "value": "Holstered"
+      },
+      {
+        "trait_type": "Mood",
+        "value": "Peaceful"
+      }
+    ]
+  }
